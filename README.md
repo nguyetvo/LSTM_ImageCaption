@@ -1,1 +1,1 @@
-# LSTM_ImageCaption
+# LSTM_ImageCaptioning
